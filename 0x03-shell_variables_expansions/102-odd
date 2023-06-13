@@ -1,2 +1,2 @@
 #!/bin/bash
-perl -lin 'print if $. % 2 ==1'
+perl -lin 'print if $. % 2 == 1'
